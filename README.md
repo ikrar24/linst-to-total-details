@@ -1,10 +1,36 @@
-# This Is A Very Small Defination For List To List All Data Using  react js
+# 📋 List to List All Data using React.js
 
+This is a small project to demonstrate how to list data and navigate to a detailed view using React and React Router DOM.
 
-## Dev Dependencies
-- React Rauter Dom
-- React Vite
+---
 
+## 🚀 Tech Stack
 
-## features
-- Click Any Arry ( List ) Then Open New Componets for Fecthing All Data
+- ✅ React.js (Vite)
+- ✅ React Router DOM
+
+---
+
+## ✨ Features
+
+- List all users from a static array.
+- Click on any user (first name) to view full details.
+- Each user's detail opens in a new route using React Router.
+- Component-based clean architecture.
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/ikrar24/list-to-total-details.git
+
+# Navigate to the project folder
+cd list-to-total-details
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
